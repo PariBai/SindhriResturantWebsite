@@ -29,7 +29,11 @@ const MyList = () => {
 
         <button onClick={addrecipe}>Add New Recipe</button>
         //{console.log({recipes})} 
-        
+        <div className="MyContainer">
+            recipes.map((recipe)=>{
+                 
+            })
+        </div>
     </div>
     </>
   )

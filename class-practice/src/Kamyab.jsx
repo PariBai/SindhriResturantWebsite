@@ -43,7 +43,7 @@ export default function Game() {
                 <button
                   key={step}
                   style={{ backgroundColor: userItem.step === step ? '#006400' : 'white', color: userItem.step === step ? 'white' : 'black' }} // Change background and text color for selected step
-                  disabled={userItem.step === step ? false : true} // Disable buttons except for the selected step
+                  disabled={userItem.step === step ? false : true} 
                 >
                   Step {step}
                 </button>
