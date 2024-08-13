@@ -1,5 +1,5 @@
 import React from 'react'
-import team1 from "../assets/images/team1.jpg";
+import team1 from "../assets/images/team01.jpg";
 import team2 from "../assets/images/team2.jpg";
 import team3 from "../assets/images/team3.jpg";
 
@@ -7,7 +7,7 @@ const  Team = () => {
   return <>
   <section className='team' id='team'>
     <h1 className='heading'>
-        our <span>Team</span>
+        our <span>Chefs</span>
     </h1>
     <div className='box-container'>
         <div className='box'>
@@ -17,11 +17,11 @@ const  Team = () => {
             </div>
             <div className='content'>
                 <a  className='title'>
-                    Chef Saima Zahir
+                    Chef Raheel khan
                 </a>
                 <span>Joined Since 2000</span>
                 <p>
-                With a passion for fusion cuisine, Chef Saima 
+                With a passion for fusion cuisine, Chef Raheel 
                 brings a unique blend of flavors to every dish.
 
                 </p>
