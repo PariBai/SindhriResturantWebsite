@@ -30,7 +30,7 @@ const Menu = () => {
       image: vegetarianImage,
       dishes: [
         { name: 'Vegetable Curry', price: 799 },
-        { name: 'Paneer Pakora', price: 950 },
+        { name: 'Paneer curry', price: 950 },
         { name: 'Dall Makhni', price: 570 },
         { name: 'Paneer Steaks', price: 999 }
       ]
