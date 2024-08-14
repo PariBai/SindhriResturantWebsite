@@ -15,7 +15,7 @@ const About = () => {
             <div className='content'>
                 <h3>About Sindhri Restaurant and Bar B.Q</h3>
                 <p>
-                Welcome to Sindhri Restaurant and Bar B.Q, where every flavor tells a story. Our journey began in 1999, 
+                Welcome to Sindhri Restaurant and Bar B.Q, where every flavor tells a story. Our journey began in 2002, 
                 with a vision to redefine the culinary experience in Sukkur city. Inspired by the rich heritage of 
                 cuisine, we set out to create a place where traditional recipes meet modern flavors, and where every dish
                  is crafted with passion and authenticity.
